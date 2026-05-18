@@ -6,7 +6,7 @@ An interactive **Power BI Dashboard** that analyzes Amazon Prime Video’s exten
 
 # 📊 Dashboard Preview
 
-![Amazon Prime Video Dashboard]("C:\Users\ASUS\OneDrive\Desktop\project Pb\Screenshot 2026-05-18 120521.png")
+![Amazon Prime Video Dashboard](Screenshot%202026-05-18%20120521.png)
 
 > *Make sure your dashboard screenshot is uploaded inside the `Images` folder and matches the file name above.*
 
