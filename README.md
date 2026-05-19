@@ -119,7 +119,10 @@ Amazon-Prime-Video-Analysis/
 ├── Images/                # Dashboard screenshots
 ├── README.md              # Project documentation
 
-## LinkedIn Project Post
-🔗 [Click Here](https://www.linkedin.com/posts/abhishekpakhare_dataanalytics-powerbi-datavisualization-ugcPost-7462092851468832769-vGwX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEJ7QYBM9IGuSUxjFB3DnfHAQVyFrFpynw)
+# 🔗 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/posts/abhishekpakhare_dataanalytics-powerbi-datavisualization-ugcPost-7462092851468832769-vGwX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEJ7QYBM9IGuSUxjFB3DnfHAQVyFrFpynw
+- GitHub: 
+
 
 
